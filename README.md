@@ -2,6 +2,7 @@
 
 
 **Telecom_Churn_v3.ipynb:** Jupyter notebook file with complete source code.
+
 **Telecom_Churn.pdf:** Presentation of the outcome of analysis.
 
 Business problem overview
